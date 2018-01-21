@@ -1822,11 +1822,18 @@ body {
   color: #d17d21;
 }
 .cid-qHl4vSse4r {
+  background-image: url("../../../assets/images/piet-mokwena-716x382.png");
+}
+.cid-qHl4vSse4r H1 {
+  color: #d17d21;
+  text-align: center;
+}
+.cid-qHlHDmcYWb {
   padding-top: 90px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/piet-mokwena-716x382.png");
 }
-.cid-qHl4vSse4r H1 {
+.cid-qHlHDmcYWb H1 {
   color: #d17d21;
   text-align: center;
 }
